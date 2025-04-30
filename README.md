@@ -16,12 +16,41 @@ Purchase products, with receipt generation
 
 Data storage in a local text file (database.txt)
 
+Admin login and viewing initially blank database with no products:
 
 ![Admin login and viewing initially blank database with no products](images/images/Screenshot1.png)
+
+
+Admin adding products and keeping stock record:
+
 ![Admin adding products](images/images/Screenshot2.png)
+
+
+Now we can see the added products:
+
 ![Now we can see the added products](images/images/Screenshot3.png)
+
+
+Deleting products:
+
 ![Deleting products](images/images/Screenshot4.png)
+
+
+Updating product:
+
 ![Updating product](images/images/Screenshot5.png)
+
+
+User login and viewing products:
+
 ![User login and viewing products](images/images/Screenshot6.png)
+
+
+User buying a product and getting a receipt:
+
 ![User buying a product and getting a receipt](images/images/Screenshot7.png)
+
+
+Updated database with stock reduction after buying:
+
 ![Updated database with stock reduction after buying](images/images/Screenshot8.png)
