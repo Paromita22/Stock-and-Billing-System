@@ -21,7 +21,7 @@ Data storage in a local text file (database.txt)
 
 
 
-
+<br><br>
 Admin login and viewing initially blank database with no products:
 
 ![Admin login and viewing initially blank database with no products](images/images/Screenshot1.png)
