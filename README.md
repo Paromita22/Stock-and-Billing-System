@@ -14,7 +14,5 @@ User Panel can:
 View available products
 Purchase products, with receipt generation
 
-Persistent data storage in a local text file (database.txt)
+Data storage in a local text file (database.txt)
 
-Technologies Used:
-C++ (Standard Library), File I/O (using fstream), Object-Oriented Programming (Classes)
