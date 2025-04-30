@@ -18,5 +18,10 @@ Data storage in a local text file (database.txt)
 
 
 ![Admin login and viewing initially blank database with no products](images/images/Screenshot1.png)
-![Admin adding products](./images/Screenshot%202025-05-01%20002242.png)
-
+![Admin adding products](images/images/Screenshot2.png)
+![Now we can see the added products](images/images/Screenshot3.png)
+![Deleting products](images/images/Screenshot4.png)
+![Updating product](images/images/Screenshot5.png)
+![User login and viewing products](images/images/Screenshot6.png)
+![User buying a product and getting a receipt](images/images/Screenshot7.png)
+![Updated database with stock reduction after buying](images/images/Screenshot8.png)
