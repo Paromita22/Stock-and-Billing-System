@@ -1,0 +1,2 @@
+1002 Pencils 120 8
+1003 Erasers 48 10
