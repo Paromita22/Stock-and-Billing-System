@@ -16,3 +16,7 @@ Purchase products, with receipt generation
 
 Data storage in a local text file (database.txt)
 
+
+![Admin login and viewing initially blank database with no products](images/images/Screenshot 2025-05-01 002001.png)
+![Admin adding products](images/images/Screenshot 2025-05-01 002422.png)
+
